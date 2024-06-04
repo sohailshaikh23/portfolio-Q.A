@@ -9,18 +9,9 @@
       "code": "https://github.com/sohailshaikh23/wanderlust.git"
     }
   },
+  
   {
-    "name": "3-Tier Notes-webapp application",
-    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "reactprojects",
-    "category": "major",
-    "links": {
-      "view": "<LINKEDIN>",
-      "code": "https://github.com/sohailshaikh23/3-tier-application-notes.git"
-    }
-  },
-  {
-    "name": "Programming languages voting web-app",
+    "name": "IOT based Water supply monitoring System (B.tech Project",
     "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
     "image": "Programming_language_voting_app",
     "category": "major",
@@ -28,45 +19,6 @@
       "view": "<LINKEDIN>",
       "code": "https://github.com/sohailshaikh23/3-tier-application-voting.git"
     }
-  },
-  {
-    "name": "2-tier Message querry web-app deployment",
-    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "message_querry",
-    "category": "major",
-    "links": {
-      "view": "<LINKEDIN>",
-      "code": "https://github.com/sohailshaikh23/2-tier-application.git"
-    }
-  },
-  {
-    "name": "Node Todo list WebApp",
-    "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
-    "image": "node-todo",
-    "category": "minor",
-    "links": {
-      "view": "LINKEDIN",
-      "code": "https://github.com/sohailshaikh23/node-todo.git"
-    }
-  },
-  {
-    "name": "Djando based WebApp",
-    "desc": "This is Notes WebApp based on Django, It is Containerized using Docker and Deployed using kubernetes to make sure it is HA and scalable ,Continuously Build with Jenkins",
-    "image": "djando-notes",
-    "category": "minor",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/sohailshaikh23/django-notes.git"
-    }
-  },
-  {
-    "name": "2048 Web game",
-    "desc": "",
-    "image": "2048-game",
-    "category": "minor",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/sohailshaikh23/2048-game.git"
-    }
   }
+  
 ]
