@@ -31,9 +31,8 @@
         "name": "Ubuntu",
         "icon": "https://img.icons8.com/color/48/ubuntu--v1.png" 
     },
-    
-    {
-        "name": "Git VCS",
+   {
+        "name": "Git ",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
@@ -63,10 +62,6 @@
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/mongo-db.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/ansible.png"
     },
      {
         "name": "Google sheets",
