@@ -11,14 +11,13 @@
   },
   
   {
-    "name": "IOT based Water supply monitoring System (B.tech Project",
-    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "Programming_language_voting_app",
+    "name": "IOT based Water supply monitoring System (B.tech Project)",
+    "desc": "",
+    "image": "b.tech-iot-project",
     "category": "major",
     "links": {
       "view": "<LINKEDIN>",
-      "code": "https://github.com/sohailshaikh23/3-tier-application-voting.git"
+      "code": "https://github.com/sohailshaikh23/"
     }
   }
-  
 ]
