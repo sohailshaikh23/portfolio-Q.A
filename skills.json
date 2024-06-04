@@ -1,0 +1,75 @@
+[
+     {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+   {
+        "name": "Jenkins ",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
+    },
+      {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+     {
+        "name": "Atlassian Jira",
+        "icon": "https://img.icons8.com/color/48/jira.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/linux--v1.png"
+    },
+    {
+        "name": "Ubuntu",
+        "icon": "https://img.icons8.com/color/48/ubuntu--v1.png" 
+    },
+    
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+         "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "nginx",
+        "icon": "https://img.icons8.com/color/48/nginx.png"
+    },
+    {
+        "name": "Apache Tomcat",
+        "icon": "https://img.icons8.com/color/48/tomcat.png"
+    },
+    {
+        "name": "Slack",
+        "icon": "https://img.icons8.com/color/48/slack-new.png"
+    },
+    {
+        "name": "Testrails",
+        "icon": "https://img.icons8.com/fluency/48/testrail.png"
+    },
+    {
+        "name": "Arduino",
+        "icon": "https://img.icons8.com/fluency/48/arduino.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/terraform.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/ansible.png"
+    },
+     {
+        "name": "Google sheets",
+        "icon": "https://img.icons8.com/color/48/google-sheets.png"
+    }
+]
