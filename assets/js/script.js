@@ -73,7 +73,7 @@ document.addEventListener('visibilitychange',
 var typed = new Typed(".typing-text", {
     strings: ["Cloud Engineer","Q.A Engineer","Cloud Computing"],
     loop: true,
-    typeSpeed: 50,
+    typeSpeed: 80,
     backSpeed: 25,
     backDelay: 500,
 });
