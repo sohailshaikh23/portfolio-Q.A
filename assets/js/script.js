@@ -73,9 +73,9 @@ document.addEventListener('visibilitychange',
 var typed = new Typed(".typing-text", {
     strings: ["Cloud Engineer","Q.A Engineer","Cloud Computing"],
     loop: true,
-    typeSpeed: 80,
+    typeSpeed: 50,
     backSpeed: 25,
-    backDelay: 500,
+    backDelay: 950,
 });
 // <!-- typed js effect ends -->
 
