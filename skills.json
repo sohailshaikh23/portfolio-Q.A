@@ -44,7 +44,7 @@
         "icon": "https://img.icons8.com/color/48/nginx.png"
     },
     {
-        "name": "Apache Tomcat",
+        "name": "Tomcat",
         "icon": "https://img.icons8.com/color/48/tomcat.png"
     },
     {
@@ -64,7 +64,7 @@
         "icon": "https://img.icons8.com/color/48/mongo-db.png"
     },
      {
-        "name": "Google sheets",
+        "name": "Google Sheets",
         "icon": "https://img.icons8.com/color/48/google-sheets.png"
     }
 ]
