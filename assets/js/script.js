@@ -71,11 +71,11 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Cloud Engineer","Q A Engineer","AWS cloud"],
+    strings: ["Cloud Engineer","Q.A Engineer","AWS cloud"],
     loop: true,
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 500,
+    typeSpeed: 25,
+    backSpeed: 15,
+    backDelay: 550,
 });
 // <!-- typed js effect ends -->
 
