@@ -38,6 +38,35 @@
       "view": "https://drive.google.com/file/d/1eO3r_eZ0c6jZ9vG12ocW0wjyXZL-Kgni/view?usp=sharing",
       "code": "https://github.com/sohailshaikh23/2048-game.git"
     }
+  },
+  {
+    "name": "Programming languages voting web-app",
+    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
+    "image": "Programming_language_voting_app",
+    "category": "major",
+    "links": {
+      "view": "https://drive.google.com/file/d/1uxrzITTsFZi1UJcWXu_41lt4aIIs0-Da/view?usp=drive_link",
+      "code": "https://github.com/sohailshaikh23/3-tier-application-voting.git"
+    }
+  },
+  {
+    "name": "Node Todo list WebApp",
+    "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
+    "image": "todo-list",
+    "category": "minor",
+    "links": {
+      "view": "https://drive.google.com/file/d/1IR-pVgNw_tuQNn9pKae4hXUEaqKVJ-f2/view?usp=drive_link",
+      "code": "https://github.com/sohailshaikh23/node-todo.git"
+    }
+  },
+  {
+    "name": "Djando based WebApp",
+    "desc": "This is Notes WebApp based on Django, It is Containerized using Docker and Deployed using kubernetes to make sure it is HA and scalable ,Continuously Build with Jenkins",
+    "image": "django_webapp",
+    "category": "minor",
+    "links": {
+      "view": "https://drive.google.com/file/d/1d9w4pxCkf4ylJntV_M-OWNKr4xjwJxl_/view?usp=drive_link",
+      "code": "https://github.com/sohailshaikh23/django-notes.git"
+    }
   }
-  
 ]
