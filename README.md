@@ -15,10 +15,7 @@ Go to your config file here is the location
 sudo vi  /etc/nginx/sites-available/default
 ```
 
-add this below code in your nginx config file 
-{ root /var/www/html; ke niche
-location / ke exact upar likh do }
-
+add this line in your nginx config file : `root /var/www/html` ke neeche, `location /` ke exact upar 
 ```
 server_name oceanofthings.com www.oceanofthings.shop;
 ```
