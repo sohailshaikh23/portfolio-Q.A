@@ -9,7 +9,6 @@
       "code": "https://github.com/sohailshaikh23/wanderlust.git"
     }
   },
-  
   {
     "name": "IOT based Water supply monitoring System (B.tech Project)",
     "desc": "Accomplished seamless implementation of an Innovative IOT based Water Supply Monitoring System with cloud integration & Remote Monitoring Capabilities",
@@ -19,5 +18,26 @@
       "view": "https://drive.google.com/file/d/1Y6Mu3rBq0AwHFMIwhzbAMaWlflUbt8LQ/view?usp=sharing",
       "code": "https://github.com/sohailshaikh23/b.tech-project.git"
     }
+  },
+  {
+    "name": "3-Tier Notes-webapp application",
+    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
+    "image": "notes",
+    "category": "major",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ek-kUjmW__ESdiFy_lIZI_H7Erv737v_/view?usp=drive_link",
+      "code": "https://github.com/sohailshaikh23/3-tier-application-notes.git"
+    }
+  },
+  {
+    "name": "2048 Web game",
+    "desc": "This is web based arcade game",
+    "image": "2048_game",
+    "category": "minor",
+    "links": {
+      "view": "https://drive.google.com/file/d/1eO3r_eZ0c6jZ9vG12ocW0wjyXZL-Kgni/view?usp=sharing",
+      "code": "https://github.com/sohailshaikh23/2048-game.git"
+    }
   }
+  
 ]
