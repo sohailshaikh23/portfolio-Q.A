@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio x SOHAIL SHAIKH";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Cloud Engineer","Q.A Engineer"],
+    strings: ["Cloud Engineer","DevOps Engineer","AWS Cloud", "Containerization Expert"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
