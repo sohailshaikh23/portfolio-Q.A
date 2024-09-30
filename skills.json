@@ -31,8 +31,8 @@
         "name": "Ubuntu",
         "icon": "https://img.icons8.com/color/48/ubuntu--v1.png" 
     },
-   {
-        "name": "Git ",
+    {
+        "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
@@ -44,7 +44,7 @@
         "icon": "https://img.icons8.com/color/48/nginx.png"
     },
     {
-        "name": "Tomcat",
+        "name": "Apache Tomcat",
         "icon": "https://img.icons8.com/color/48/tomcat.png"
     },
     {
@@ -60,11 +60,35 @@
         "icon": "https://img.icons8.com/fluency/48/arduino.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/mongo-db.png"
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/terraform.png"
+    },
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/color/48/ansible.png"
     },
      {
-        "name": "Google Sheets",
+        "name": "Google sheets",
         "icon": "https://img.icons8.com/color/48/google-sheets.png"
+    },
+     {
+        "name": "React JS",
+        "icon": "https://img.icons8.com/plasticine/100/react.png"
+    },
+     {
+        "name": "Node JS",
+        "icon": "https://img.icons8.com/fluency/48/node-js.png"
+    },
+     {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/fluency/48/grafana.png"
+    },
+     {
+        "name": "Mongo DB",
+        "icon": "https://img.icons8.com/color/48/mongodb.png"
+    },
+     {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/mysql-logo.png"
     }
 ]
