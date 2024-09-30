@@ -10,10 +10,15 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 sudo apt install nginx
 ```
 
+Go to your config file here is the location
 ```
 sudo vi  /etc/nginx/sites-available/default
 ```
-add this in your nginx config file
+
+add this below code in your nginx config file 
+{ root /var/www/html; ke niche
+location / ke exact upar likh do }
+
 ```
 server_name oceanofthings.com www.oceanofthings.shop;
 ```
