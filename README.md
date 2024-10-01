@@ -15,7 +15,7 @@ Go to your config file here is the location
 sudo vi  /etc/nginx/sites-available/default
 ```
 
-add this line in your nginx config file ::  `root /var/www/html` ke neeche and `location /` ke exact upar 
+add this line in your nginx config file :: below `root /var/www/html`  and exactly above `location /` 
 ```
 server_name oceanofthings.com www.oceanofthings.shop;
 ```
@@ -44,9 +44,9 @@ sudo apt-get update -y
 sudo apt-get install python3-certbot-nginx -y
 ```
 ```
-sudo certbot --nginx -d oceanofthings.com
+sudo certbot --nginx -d oceanofthings.com #-d www.oceanofthings.shop
 ```
-#-d www.oceanofthings.shop
+
 
 {This command will ask you some questions like email (provide your email), accept the term and conditions (yes), do `yes` for rest of questions
 Only valid for 90 days, test the renewal process with
